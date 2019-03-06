@@ -1,0 +1,517 @@
+{
+  "name": "HOTELOrastaysTest",
+  "address": "Merlin Infinite, Unit No 501, DN 51, DN Block, Sector 5, Salt Lake, DN Block, Sector V, Salt Lake City, Kolkata, West Bengal 700091",
+  "latitude": "22.582490",
+  "longitude": "88.426787",
+  "entireApartment": "Y",
+  "apartmentName": "",
+  "apartmentNumber": "",
+  "startDate": "2019-02-01",
+  "endDate": "2019-12-31",
+  "checkinTime": "11:00:00",
+  "checkoutTime": "10:00:00",
+  "userToken": "ab7c713e-41af-4f94-a652-104c9a6efa82",
+  "strictCheckin": "N",
+  "coverImageUrl": "F:\\ServerJars\\propertyImages\\Desert_1547362524704.jpg",
+  "priceDrop": "Y",
+  "immediateBooking": "Y",
+  "languageId": "1",
+  "contactName": "Sudeep Chhetri",
+  "altMobile": "9883741610",
+  "landline": "033-25478451",
+  "altEmail": "sudeep@orastays.com",
+  "advancePercentage": "100",
+  "location": "sector v",
+  "sexCategory": "BOTH",
+  "propertyType": {
+    "name": "Hotel",
+    "propertyTypeId": "1"
+  },
+  "propertyVsDescriptions": [
+    {
+      "description": "Where does it come from",
+      "languageId": "1"
+    }
+  ],   "propertyVsPriceDrops": [
+      {
+        "status": 1,
+        "createdDate": "2018-12-29 22:03:23",
+        "createdBy": 1,
+        "modifiedDate": null,
+        "modifiedBy": null,
+        "userToken": null,
+        "languageId": null,
+        "propertyPDropId": "59",
+        "percentage": "0",
+        "property": null,
+        "priceDrop": {
+          "status": 1,
+          "createdDate": "2018-09-06 01:27:34",
+          "createdBy": 1,
+          "modifiedDate": null,
+          "modifiedBy": null,
+          "userToken": null,
+          "languageId": null,
+          "priceDropId": "1",
+          "afterTime": "8",
+          "propertyVsPriceDrops": null
+        }
+      },
+      {
+        "status": 1,
+        "createdDate": "2018-12-29 22:03:23",
+        "createdBy": 1,
+        "modifiedDate": null,
+        "modifiedBy": null,
+        "userToken": null,
+        "languageId": null,
+        "propertyPDropId": "60",
+        "percentage": "0",
+        "property": null,
+        "priceDrop": {
+          "status": 1,
+          "createdDate": "2018-09-06 01:27:34",
+          "createdBy": 1,
+          "modifiedDate": null,
+          "modifiedBy": null,
+          "userToken": null,
+          "languageId": null,
+          "priceDropId": "2",
+          "afterTime": "11",
+          "propertyVsPriceDrops": null
+        }
+      }
+    ],
+  "propertyVsDocuments": [
+    {
+      "documentNumber": "AKBHP6784S",
+      "fileUrl": "F:\\ServerJars\\propertyImages\\Hydrangeas_1547362525045.jpg",
+      "document": {
+        "documentId": "1",
+        "documentName": "PAN CARD"
+      }
+    },
+    {
+      "documentNumber": "",
+      "fileUrl": "F:\\ServerJars\\propertyImages\\Jellyfish_1547362525124.jpg",
+      "document": {
+        "documentId": "2",
+        "documentName": "CANCELLED CHEQUE"
+      }
+    }
+  ],
+  "propertyVsGuestAccess": [
+    {
+      "guestAccess": "Guest Can Access Terrace",
+      "languageId": "1"
+    },
+    {
+      "guestAccess": "Access To Lawn",
+      "languageId": "1"
+    }
+  ],
+  "propertyVsImages": [
+    {
+      "imageURL": "F:\\ServerJars\\propertyImages\\Koala_1547362525186.jpg"
+    },
+    {
+      "imageURL": "F:\\ServerJars\\propertyImages\\Lighthouse_1547362525260.jpg"
+    },
+    {
+      "imageURL": "F:\\ServerJars\\propertyImages\\Penguins_1547362525327.jpg"
+    }
+  ],
+  "propertyVsNearbys": [
+    {
+      "places": "RS Software"
+    },
+    {
+      "places": "SDF"
+    },
+    {
+      "places": "Nicco Park"
+    }
+  ],
+  "propertyVsSpaceRules": [
+    {
+      "answer": "Y",
+      "spaceRule": {
+        "spruleId": "1",
+        "ruleName": "Smoking"
+      }
+    },
+    {
+      "answer": "N",
+      "spaceRule": {
+        "spruleId": "2",
+        "ruleName": "Drinking"
+      }
+    }
+  ],
+  "propertyVsSpecialExperiences": [
+    {
+      "specialExperience": {
+        "experienceId": "1",
+        "experienceName": "Musical Instrument"
+      }
+    },
+    {
+      "specialExperience": {
+        "experienceId": "3",
+        "experienceName": "Spa"
+      }
+    }
+  ],
+  "rooms": [
+    {
+      "cotAvailable": "Y",
+      "noOfChild": "1",
+      "noOfGuest": "2",
+      "numOfCot": "1",
+      "sharedSpace": "N",
+      "accommodationName": "PRIVATE",
+      "noOfBeds": "",
+      "roomPricePerNight": "1500",
+      "roomPricePerMonth": "",
+      "sharedBedPricePerNight": "",
+      "sharedBedPricePerMonth": "",
+      "cotPrice": "200",
+      "sharedBedPrice": "",
+      "commission": "5",
+      "hostDiscountWeekly": "2",
+      "hostDiscountMonthly": "",
+      "roomCategory": {
+        "roomCatId": "1",
+        "name": "Delux"
+      },
+	  
+	   "roomVsCancellations": [
+        {
+          "percentage": "50",
+          "cancellationSlab": {
+            "cancellationSlabId": "1"
+          }
+        },
+        {
+          "percentage": "40",
+          "cancellationSlab": {
+            "cancellationSlabId": "2"
+          }
+        }
+      ],
+      "roomVsAmenities": [
+        {
+          "amenities": {
+            "aminitiesId": "1",
+            "aminitiesName": "WIFI"
+          }
+        }
+      ],
+      "roomVsCancellation": [
+        {
+          "percentage": "50",
+          "cancellationSlab": {
+            "cancellationSlabId": "1"
+          }
+        },
+        {
+          "percentage": "40",
+          "cancellationSlab": {
+            "cancellationSlabId": "2"
+          }
+        }
+      ],
+      "roomVsImages": [
+        {
+          "imageUrl" : "F:\\ServerJars\\propertyImages\\Tulips_1547362525400.jpg"
+        },
+        {
+          "imageUrl": "F:\\ServerJars\\propertyImages\\Chrysanthemum_1547362525463.jpg"
+        }
+      ],
+      "roomVsMeals": [
+        {
+          "mealPlan": {
+            "mealPlanId": "1",
+            "mealPlanName": "Break Fast"
+          },
+          "mealDaysSunday": "Y",
+          "mealDaysMonday": "Y",
+          "mealDaysTuesday": "Y",
+          "mealDaysWednesday": "Y",
+          "mealDaysThursday": "Y",
+          "mealDaysFriday": "Y",
+          "mealDaysSaturday": "Y",
+		  "mealTypeSunday": "BOTH",
+          "mealTypeMonday": "BOTH",
+          "mealTypeTuesday": "BOTH",
+          "mealTypeWednesday": "BOTH",
+          "mealTypeThursday": "BOTH",
+          "mealTypeFriday": "BOTH",
+          "mealTypeSaturday": "BOTH",
+          "mealPriceCategorySunday": "COMPLIMENTARY",
+          "mealPriceCategoryMonday": "COMPLIMENTARY",
+          "mealPriceCategoryTuesday": "COMPLIMENTARY",
+          "mealPriceCategoryWednesday": "COMPLIMENTARY",
+          "mealPriceCategoryThursday": "COMPLIMENTARY",
+          "mealPriceCategoryFriday": "COMPLIMENTARY",
+          "mealPriceCategorySaturday": "COMPLIMENTARY"
+          
+        }
+      ],
+      "roomVsSpecialities": [
+        {
+          "specialties": {
+            "specialitiesName": "Mountain Facing",
+            "specialtiesId": "1"
+          }
+        },
+        {
+          "specialties": {
+            "specialitiesName": "Sea Facing",
+            "specialtiesId": "2"
+          }
+        }
+      ]
+    }
+  ],
+  "stayType": {
+    "stayTypeId": "2",
+    "stayTypeName": "Short Term"
+  },
+  "hostVsAccount": {
+    "accountHolderName": "Sudeep Chhetri",
+    "accountNumber": "159883741610",
+    "accountType": "Saving",
+    "bankName": "IndusInd Bank",
+    "branchName": "Sector V",
+    "ifscCode": "IND0015478"
+  },
+"userToken":"141cb095-da8f-43e4-995c-868e4b9cce05"
+}
+
+
+
+
+
+//--------------------------//
+
+
+
+{
+  "name": "HOTELOrastaysTest",
+  "address": "Merlin Infinite, Unit No 501, DN 51, DN Block, Sector 5, Salt Lake, DN Block, Sector V, Salt Lake City, Kolkata, West Bengal 700091",
+  "latitude": "22.582490",
+  "longitude": "88.426787",
+  "entireApartment": "Y",
+  "apartmentName": "",
+  "apartmentNumber": "",
+  "startDate": "2019-02-01",
+  "endDate": "2019-12-31",
+  "checkinTime": "11:00:00",
+  "checkoutTime": "10:00:00",
+  "userToken": "ab7c713e-41af-4f94-a652-104c9a6efa82",
+  "strictCheckin": "N",
+  "coverImageUrl": "F:\\ServerJars\\propertyImages\\Desert_1547362524704.jpg",
+  "priceDrop": "Y",
+  "immediateBooking": "Y",
+  "languageId": "1",
+  "contactName": "Sudeep Chhetri",
+  "altMobile": "9883741610",
+  "landline": "033-25478451",
+  "altEmail": "sudeep@orastays.com",
+  "advancePercentage": "100",
+  "sexCategory": "BOTH",
+  "location": "sector v",
+  "propertyType": {
+    "propertyTypeId": "1"
+  },
+  "City": {
+    "cityId": "1"
+  },
+  "propertyVsDescriptions": [
+    {
+      "description": "Where does it come from",
+      "languageId": "1"
+    }
+  ],
+  "propertyVsDocuments": [
+    {
+      "documentNumber": "AKBHP6784S",
+      "fileUrl": "F:\\ServerJars\\propertyImages\\Hydrangeas_1547362525045.jpg",
+      "document": {
+        "documentId": "1"
+      }
+    },
+    {
+      "documentNumber": "",
+      "fileUrl": "F:\\ServerJars\\propertyImages\\Jellyfish_1547362525124.jpg",
+      "document": {
+        "documentId": "2"
+      }
+    }
+  ],
+  "propertyVsGuestAccess": [
+    {
+      "guestAccess": "Guest Can Access Terrace",
+      "languageId": "1"
+    },
+    {
+      "guestAccess": "Access To Lawn",
+      "languageId": "1"
+    }
+  ],
+  "propertyVsImages": [
+    {
+      "imageURL": "F:\\ServerJars\\propertyImages\\Koala_1547362525186.jpg"
+    },
+    {
+      "imageURL": "F:\\ServerJars\\propertyImages\\Lighthouse_1547362525260.jpg"
+    },
+    {
+      "imageURL": "F:\\ServerJars\\propertyImages\\Penguins_1547362525327.jpg"
+    }
+  ],
+  "propertyVsNearbys": [
+    {
+      "places": "RS Software"
+    },
+    {
+      "places": "SDF"
+    },
+    {
+      "places": "Nicco Park"
+    }
+  ],
+  "propertyVsSpaceRules": [
+    {
+      "answer": "Y",
+      "spaceRule": {
+        "spruleId": "1"
+      }
+    },
+    {
+      "answer": "N",
+      "spaceRule": {
+        "spruleId": "2"
+      }
+    }
+  ],
+  "propertyVsSpecialExperiences": [
+    {
+      "specialExperience": {
+        "experienceId": "1"
+      }
+    },
+    {
+      "specialExperience": {
+        "experienceId": "3"
+      }
+    }
+  ],
+  "rooms": [
+    {
+      "cotAvailable": "Y",
+      "noOfChild": "1",
+      "noOfGuest": "2",
+      "numOfCot": "1",
+      "sharedSpace": "N",
+      "accommodationName": "PRIVATE",
+      "noOfBeds": "",
+      "roomPricePerNight": "1500",
+      "roomPricePerMonth": "",
+      "sharedBedPricePerNight": "",
+      "sharedBedPricePerMonth": "",
+      "cotPrice": "200",
+      "sharedBedPrice": "",
+      "commission": "5",
+      "hostDiscountWeekly": "2",
+      "hostDiscountMonthly": "",
+      "roomCategory": {
+        "roomCatId": "1",
+        "name": "Delux"
+      },
+      "roomVsCancellations": [
+        {
+          "percentage": "50",
+          "cancellationSlab": {
+            "cancellationSlabId": "1"
+          }
+        },
+        {
+          "percentage": "40",
+          "cancellationSlab": {
+            "cancellationSlabId": "2"
+          }
+        }
+      ],
+      "roomVsAmenities": [
+        {
+          "amenities": {
+            "aminitiesId": "1"
+          }
+        }
+      ],
+      "roomVsImages": [
+        {
+          "imageUrl": "F:\\ServerJars\\propertyImages\\Tulips_1547362525400.jpg"
+        },
+        {
+          "imageUrl": "F:\\ServerJars\\propertyImages\\Chrysanthemum_1547362525463.jpg"
+        }
+      ],
+      "roomVsMeals": [
+        {
+          "mealPlan": {
+            "mealPlanId": "1"
+          },
+          "mealDaysSunday": "Y",
+          "mealDaysMonday": "Y",
+          "mealDaysTuesday": "Y",
+          "mealDaysWednesday": "Y",
+          "mealDaysThursday": "Y",
+          "mealDaysFriday": "Y",
+          "mealDaysSaturday": "Y",
+          "mealTypeSunday": "BOTH",
+          "mealTypeMonday": "BOTH",
+          "mealTypeTuesday": "BOTH",
+          "mealTypeWednesday": "BOTH",
+          "mealTypeThursday": "BOTH",
+          "mealTypeFriday": "BOTH",
+          "mealTypeSaturday": "BOTH",
+          "mealPriceCategorySunday": "COMPLIMENTARY",
+          "mealPriceCategoryMonday": "COMPLIMENTARY",
+          "mealPriceCategoryTuesday": "COMPLIMENTARY",
+          "mealPriceCategoryWednesday": "COMPLIMENTARY",
+          "mealPriceCategoryThursday": "COMPLIMENTARY",
+          "mealPriceCategoryFriday": "COMPLIMENTARY",
+          "mealPriceCategorySaturday": "COMPLIMENTARY"
+        }
+      ],
+      "roomVsSpecialities": [
+        {
+          "specialties": {
+            "specialtiesId": "1"
+          }
+        },
+        {
+          "specialties": {
+            "specialtiesId": "2"
+          }
+        }
+      ]
+    }
+  ],
+  "stayType": {
+    "stayTypeId": "2"
+  },
+  "hostVsAccount": {
+    "accountHolderName": "Sudeep Chhetri",
+    "accountNumber": "159883741610",
+    "accountType": "Saving",
+    "bankName": "IndusInd Bank",
+    "branchName": "Sector V",
+    "ifscCode": "IND0015478"
+  },
+  "userToken": "141cb095-da8f-43e4-995c-868e4b9cce05"
+}

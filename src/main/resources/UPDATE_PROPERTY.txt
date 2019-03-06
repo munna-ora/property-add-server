@@ -1,0 +1,309 @@
+{
+  "propertyId": "31",
+  "name": "SHIBUrastaysTest",
+  "address": "Merlin Infinite, Unit No 501, DN 51, DN Block, Sector 5, Salt Lake, DN Block, Sector V, Salt Lake City, Kolkata, West Bengal 700091",
+  "latitude": "22.582490",
+  "longitude": "88.426787",
+  "entireApartment": "Y",
+  "apartmentName": "",
+  "apartmentNumber": "",
+  "oraname": "ORA09090909",
+  "startDate": "2019-01-01",
+  "endDate": "2019-12-31",
+  "checkinTime": "11:00:00",
+  "checkoutTime": "10:00:00",
+  "userToken": "ab7c713e-41af-4f94-a652-104c9a6efa82",
+  "strictCheckin": "N",
+  "coverImageUrl": "https://s-ec.bstatic.com/images/hotel/max1024x768/141/141830278.jpg",
+  "priceDrop": "Y",
+  "immediateBooking": "Y",
+  "languageId": "1",
+  "contactName": "Sudeep Chhetri",
+  "altMobile": "9883741610",
+  "landline": "033-25478451",
+  "altEmail": "sudeep@orastays.com",
+  "advancePercentage": "100",
+  "sexCategory": "BOTH",
+  "propertyType": {
+    "name": "Hotel",
+    "propertyTypeId": "1"
+  },
+  "propertyVsDescriptions": [
+    {
+      "propertyDescId": "31",
+      "description": "Where does it come from",
+      "languageId": "1"
+    }
+  ],
+  "propertyVsDocuments": [
+    {
+      "propertyVsDocumentId": "59",
+      "documentNumber": "AKBHP6784S",
+      "fileUrl": "https://s-ec.bstatic.com/images/hotel/max1024x768/141/141830278.jpg",
+      "document": {
+        "documentId": "1",
+        "documentName": "PAN CARD"
+      }
+    },
+    {
+      "propertyVsDocumentId": "59",
+      "documentNumber": "",
+      "fileUrl": "https://s-ec.bstatic.com/images/hotel/max1024x768/141/141830278.jpg",
+      "document": {
+        "documentId": "2",
+        "documentName": "CANCELLED CHEQUE"
+      }
+    }
+  ],
+  "propertyVsGuestAccess": [
+    {
+      "propertyGAccessId": "35",
+      "guestAccess": "Guest Can Access Terrace",
+      "languageId": "1"
+    },
+    {
+      "propertyGAccessId": "36",
+      "guestAccess": "Access To Lawn",
+      "languageId": "1"
+    }
+  ],
+  "propertyVsImages": [
+    {
+      "propertyImageId": "76",
+      "imageURL": "https://s-ec.bstatic.com/images/hotel/max1024x768/141/141830278.jpg"
+    },
+    {
+      "propertyImageId": "77",
+      "imageURL": "https://s-ec.bstatic.com/images/hotel/max1024x768/141/141830278.jpg"
+    },
+    {
+      "propertyImageId": "78",
+      "imageURL": "https://s-ec.bstatic.com/images/hotel/max1024x768/141/141830278.jpg"
+    }
+  ],
+  "propertyVsNearbys": [
+    {
+      "propertyNearbyId": "93",
+      "places": "RS Software"
+    },
+    {
+      "propertyNearbyId": "92",
+      "places": "SDF"
+    },
+    {
+      "propertyNearbyId": "91",
+      "places": "Nicco Park"
+    }
+  ],
+  "propertyVsSpaceRules": [
+    {
+      "propertySpaceId": "88",
+      "answer": "Y",
+      "spaceRule": {
+        "spruleId": "1",
+        "ruleName": "Smoking"
+      }
+    },
+    {
+      "propertySpaceId": "89",
+      "answer": "N",
+      "spaceRule": {
+        "spruleId": "2",
+        "ruleName": "Drinking"
+      }
+    }
+  ],
+     "propertyVsPriceDrops": [
+      {
+        "status": 1,
+        "createdDate": "2018-12-29 22:03:23",
+        "createdBy": 1,
+        "modifiedDate": null,
+        "modifiedBy": null,
+        "userToken": null,
+        "languageId": null,
+        "propertyPDropId": "59",
+        "percentage": "0",
+        "property": null,
+        "priceDrop": {
+          "status": 1,
+          "createdDate": "2018-09-06 01:27:34",
+          "createdBy": 1,
+          "modifiedDate": null,
+          "modifiedBy": null,
+          "userToken": null,
+          "languageId": null,
+          "priceDropId": "1",
+          "afterTime": "8",
+          "propertyVsPriceDrops": null
+        }
+      },
+      {
+        "status": 1,
+        "createdDate": "2018-12-29 22:03:23",
+        "createdBy": 1,
+        "modifiedDate": null,
+        "modifiedBy": null,
+        "userToken": null,
+        "languageId": null,
+        "propertyPDropId": "60",
+        "percentage": "0",
+        "property": null,
+        "priceDrop": {
+          "status": 1,
+          "createdDate": "2018-09-06 01:27:34",
+          "createdBy": 1,
+          "modifiedDate": null,
+          "modifiedBy": null,
+          "userToken": null,
+          "languageId": null,
+          "priceDropId": "2",
+          "afterTime": "11",
+          "propertyVsPriceDrops": null
+        }
+      }
+    ],
+  "propertyVsSpecialExperiences": [
+    {
+      "propertyExpId": "59",
+      "specialExperience": {
+        "experienceId": "1",
+        "experienceName": "Musical Instrument"
+      }
+    },
+    {
+      "propertyExpId": "60",
+      "specialExperience": {
+        "experienceId": "3",
+        "experienceName": "Spa"
+      }
+    }
+  ],
+  "rooms": [
+    {
+	  "roomId":"165",
+      "cotAvailable": "Y",
+      "noOfChild": "1",
+      "noOfGuest": "2",
+      "numOfCot": "1",
+      "sharedSpace": "N",
+	  "oraRoomName": "ORA1546101188949",
+      "accommodationName": "PRIVATE",
+      "noOfBeds": "",
+      "roomPricePerNight": "1500",
+      "roomPricePerMonth": "",
+      "sharedBedPricePerNight": "",
+      "sharedBedPricePerMonth": "",
+      "cotPrice": "200",
+      "sharedBedPrice": "",
+      "commission": "5",
+      "hostDiscountWeekly": "2",
+      "hostDiscountMonthly": "",
+      "roomCategory": {
+        "roomCatId": "1",
+        "name": "Delux"
+      },
+      "roomVsCancellations": [
+        {
+		 "rcId":"325",
+          "percentage": "50",
+          "cancellationSlab": {
+            "cancellationSlabId": "1"
+          }
+        },
+        {
+		"rcId":"325",
+          "percentage": "40",
+          "cancellationSlab": {
+            "cancellationSlabId": "2"
+          }
+        }
+      ],
+      "roomVsAmenities": [
+        {
+		 "roomVsAminitiesId":"390",
+          "amenities": {
+            "aminitiesId": "1",
+            "aminitiesName": "WIFI"
+          }
+        }
+      ],
+     
+      "roomVsImages": [
+        {
+		"roomVsImageId":"493",
+          "imageURL": "https://s-ec.bstatic.com/images/hotel/max1024x768/141/141830278.jpg"
+        },
+        {
+		"roomVsImageId":"494",
+          "imageURL": "https://s-ec.bstatic.com/images/hotel/max1024x768/141/141830278.jpg"
+        },
+        {
+		"roomVsImageId":"495",
+          "imageURL": "https://s-ec.bstatic.com/images/hotel/max1024x768/141/141830278.jpg"
+        }
+      ],
+      "roomVsMeals": [
+	  
+        {
+		"roomVsMealId":"22",
+          "mealPlan": {
+            "mealPlanId": "1",
+            "mealPlanName": "Break Fast"
+          },
+          "mealDaysSunday": "Y",
+          "mealDaysMonday": "Y",
+          "mealDaysTuesday": "Y",
+          "mealDaysWednesday": "Y",
+          "mealDaysThursday": "Y",
+          "mealDaysFriday": "Y",
+          "mealDaysSaturday": "Y",
+          "mealTypeSunday": "BOTH",
+          "mealTypeMonday": "BOTH",
+          "mealTypeTuesday": "BOTH",
+          "mealTypeWednesday": "BOTH",
+          "mealTypeThursday": "BOTH",
+          "mealTypeFriday": "BOTH",
+          "mealTypeSaturday": "BOTH",
+          "mealPriceCategorySunday": "COMPLIMENTARY",
+          "mealPriceCategoryMonday": "COMPLIMENTARY",
+          "mealPriceCategoryTuesday": "COMPLIMENTARY",
+          "mealPriceCategoryWednesday": "COMPLIMENTARY",
+          "mealPriceCategoryThursday": "COMPLIMENTARY",
+          "mealPriceCategoryFriday": "COMPLIMENTARY",
+          "mealPriceCategorySaturday": "COMPLIMENTARY"
+        }
+      ],
+      "roomVsSpecialities": [
+        {
+		"roomspecId":"248",
+          "specialties": {
+            "specialitiesName": "Mountain Facing",
+            "specialtiesId": "1"
+          }
+        },
+        {
+		"roomspecId":"249",
+          "specialties": {
+            "specialitiesName": "Sea Facing",
+            "specialtiesId": "2"
+          }
+        }
+      ]
+    }
+  ],
+  "stayType": {
+    "stayTypeId": "2",
+    "stayTypeName": "Short Term"
+  },
+  "hostVsAccount": {
+    "hostVsAccountId": "31",
+    "accountHolderName": "Sudeep Chhetri",
+    "accountNumber": "159883741610",
+    "accountType": "Saving",
+    "bankName": "IndusInd Bank",
+    "branchName": "Sector V",
+    "ifscCode": "IND0015478"
+  },
+  "userToken": "89ef239b-973f-4655-b691-4064e61910f9"
+}
